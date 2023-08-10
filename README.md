@@ -25,6 +25,9 @@ The following guides illustrate how to run this project
 #### Run the project using command:
 `java -jar pet-application/target/*.jar`
 
+#### Access the Swagger UI by below url:
+`http://localhost:8081/swagger-ui/index.html`
+
 
 
 
