@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="62d5d83d-b421-4d98-846b-ba472401d8d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "fec2302713def4a2eb1938a5aec0d8d6",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691689542704</updated>
-      <workItem from="1691689544031" duration="7183000" />
+      <workItem from="1691689544031" duration="7559000" />
+      <workItem from="1691726340034" duration="3037000" />
     </task>
     <servers />
   </component>
