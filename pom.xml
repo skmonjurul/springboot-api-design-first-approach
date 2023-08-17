@@ -17,12 +17,34 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.skmonjurul</groupId>
+                <artifactId>pet-api-contract</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.skmonjurul</groupId>
+                <artifactId>pet-service</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.skmonjurul</groupId>
+                <artifactId>pet-application</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
 
 
 
 
     <modules>
-        <module>pet-api</module>
+        <module>pet-api-contract</module>
         <module>pet-service</module>
         <module>pet-application</module>
     </modules>

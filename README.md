@@ -23,7 +23,15 @@ The following guides illustrate how to run this project
 `mvn clean install`
 
 #### Run the project using command:
-`java -jar pet-application/target/*.jar`
+```shell
+java -jar pet-application/target/*.jar
+```
+
+or
+
+```shell
+./mvnw spring-boot:run -pl pet-application
+```
 
 #### Access the Swagger UI by below url:
 `http://localhost:8081/swagger-ui/index.html`
